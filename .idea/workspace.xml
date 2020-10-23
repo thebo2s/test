@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="379fd2b3-79d3-4428-9466-f7b99b086da8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,12 +78,23 @@
       <workItem from="1603376251791" duration="2234000" />
       <workItem from="1603455015911" duration="273000" />
       <workItem from="1603463899538" duration="15668000" />
-      <workItem from="1603480351322" duration="801000" />
+      <workItem from="1603480351322" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="502" y="172" key="FileChooserDialogImpl" timestamp="1603376764660">
@@ -160,5 +169,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="222" y="75" key="SettingsEditor/0.0.1440.860/2880.0.1920.1040@0.0.1440.860" timestamp="1603377110904" />
+    <state x="313" y="163" key="Vcs.Push.Dialog.v2" timestamp="1603481388603">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="313" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860/2880.0.1920.1040@0.0.1440.860" timestamp="1603481388603" />
   </component>
 </project>
